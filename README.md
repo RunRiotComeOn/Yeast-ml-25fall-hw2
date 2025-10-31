@@ -1,7 +1,6 @@
-# ECS 171 Homework 2 - Yeast Protein Localization
+# ECS 171 Homework 2: Yeast Protein Localization
 
-## Project Overview
-This project implements a neural network to classify the localization of yeast proteins.
+This repository contains the pipeline of data preprocessing and implementation of a neural network to classify the localization of yeast proteins.
 
 ## File Structure
 ```
